@@ -1,4 +1,4 @@
-import java.util.Map;
+package TIL369;
 
 //Linear Probing
 public class MyHash2 {

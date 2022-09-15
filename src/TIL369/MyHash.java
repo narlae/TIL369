@@ -1,3 +1,5 @@
+package TIL369;
+
 //Chaining
 public class MyHash {
     public Slot[] hashTable;
